@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3><img align="right" width="350" height="210" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
@@ -49,6 +49,7 @@
 </div>
 
 ###
+
 
 
 
