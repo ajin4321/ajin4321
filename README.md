@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on - HRMS <br>- 📚 I'm currently learning - ASP.NET</p>
+<p align="left">- 🔭 I’m working on - HRMS <br>- 📚 I'm currently Working AS Associate Software Engineer - ASP.NET CORE</p>
 
 ###
 
